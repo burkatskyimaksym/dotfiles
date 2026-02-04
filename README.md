@@ -1,7 +1,9 @@
 ## Packages to install
+- brew
 - eza
 - zoxide
 - fzf
+- fastfetch
 
 ## Oh-my-zsh
 Install [Oh My Zsh](https://ohmyz.sh/)
