@@ -72,7 +72,21 @@ ZSH_THEME="robbyrussell"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
 	git
+
+	docker
+	docker-compose
+	podman
+
+	python
+	pip
+	node
+	npm
+
+	sudo
+	extract
+
 	zsh-autosuggestions
+	zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -108,6 +122,8 @@ source $ZSH/oh-my-zsh.sh
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
+export PATH="$HOME/.local/bin:$PATH"
+
 eval "$(zoxide init zsh)"
 alias cd="z"
 
@@ -124,3 +140,7 @@ if type brew &>/dev/null; then
 fi
 
 alias ls="eza --icons=always"
+export LIBVIRT_DEFAULT_URI="qemu:///system"
+
+# opencode
+export PATH=/home/jawdypus/.opencode/bin:$PATH

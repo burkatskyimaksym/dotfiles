@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "skills": {
+    "writing-plans": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/writing-plans/SKILL.md",
+      "skillFolderHash": "ab2adb78b24572c2a80c18158ad699ab065c73df",
+      "installedAt": "2026-06-27T14:02:17.263Z",
+      "updatedAt": "2026-06-27T14:02:17.263Z"
+    },
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/brainstorming/SKILL.md",
+      "skillFolderHash": "27e73ef7b83994e913cba378081b587412d2e9cb",
+      "installedAt": "2026-06-27T14:02:52.175Z",
+      "updatedAt": "2026-06-27T14:02:52.175Z"
+    },
+    "executing-plans": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/executing-plans/SKILL.md",
+      "skillFolderHash": "d1b09f061715e6e83702a0b65c9624b72f654aad",
+      "installedAt": "2026-06-27T14:03:18.561Z",
+      "updatedAt": "2026-06-27T14:03:18.561Z"
+    },
+    "test-driven-development": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/test-driven-development/SKILL.md",
+      "skillFolderHash": "61939b456845d75979423c855829d05cbf2c304d",
+      "installedAt": "2026-06-27T14:03:34.044Z",
+      "updatedAt": "2026-06-27T14:03:34.044Z"
+    },
+    "requesting-code-review": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/requesting-code-review/SKILL.md",
+      "skillFolderHash": "c9144401a26cbe2549a0020c65c478a6a0bdfaee",
+      "installedAt": "2026-06-27T14:11:54.903Z",
+      "updatedAt": "2026-06-27T14:11:54.903Z"
+    },
+    "verification-before-completion": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/verification-before-completion/SKILL.md",
+      "skillFolderHash": "ceb2f1f67f4cadb29b32a06e54d3d0be832071f5",
+      "installedAt": "2026-06-27T14:12:13.951Z",
+      "updatedAt": "2026-06-27T14:12:13.951Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
+  ]
+}
